@@ -1,0 +1,7 @@
+{
+  "name": "Stoa Paris Room Visualizer",
+  "description": "A luxury bedding visualizer that uses AI to overlay Stoa Paris bedsheets and pillows onto user-uploaded bed photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
